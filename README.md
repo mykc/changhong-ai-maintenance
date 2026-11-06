@@ -66,3 +66,10 @@ python -B scripts/check_release.py
 运行时 `adb root` 不等于永久 root；Aerial 开机进入桌面不代表 SSH/ADB 自动启动。官方策略更新可能覆盖名单；卸载应用不会自动撤销手工名单授权。详情和限制见 [免责声明](DISCLAIMER.md)。
 
 仓库不包含 APK、固件、厂商反编译源码、个人密钥或真实设备快照，与长虹及各应用作者无隶属关系。许可证由仓库所有者选择，当前未附 LICENSE。
+
+
+## 社区
+
+本开源项目已链接并认可 [LINUX DO](https://linux.do/) 社区。
+
+
